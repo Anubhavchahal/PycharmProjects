@@ -1,0 +1,16 @@
+l=[10,20,10,4,60,30,70,90,80,70,60]
+c=l.count(10)
+print(c)
+m=max(l)
+print(m)
+w=["hello","world"]
+n=max(w)
+print(n)
+m=min(l)
+print(m)
+l.sort()
+print(l)
+l.reverse()
+print(l)
+r=w.index("hello")
+print(r)
